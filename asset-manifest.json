@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vijay85-tech/my-todo-list/static/css/main.03034fdd.chunk.css",
-    "main.js": "/vijay85-tech/my-todo-list/static/js/main.2a901289.chunk.js",
-    "main.js.map": "/vijay85-tech/my-todo-list/static/js/main.2a901289.chunk.js.map",
-    "runtime-main.js": "/vijay85-tech/my-todo-list/static/js/runtime-main.e4248497.js",
-    "runtime-main.js.map": "/vijay85-tech/my-todo-list/static/js/runtime-main.e4248497.js.map",
-    "static/js/2.9dadb518.chunk.js": "/vijay85-tech/my-todo-list/static/js/2.9dadb518.chunk.js",
-    "static/js/2.9dadb518.chunk.js.map": "/vijay85-tech/my-todo-list/static/js/2.9dadb518.chunk.js.map",
-    "index.html": "/vijay85-tech/my-todo-list/index.html",
-    "precache-manifest.bb05393a603c654eafceb814eec56825.js": "/vijay85-tech/my-todo-list/precache-manifest.bb05393a603c654eafceb814eec56825.js",
-    "service-worker.js": "/vijay85-tech/my-todo-list/service-worker.js",
-    "static/css/main.03034fdd.chunk.css.map": "/vijay85-tech/my-todo-list/static/css/main.03034fdd.chunk.css.map",
-    "static/js/2.9dadb518.chunk.js.LICENSE.txt": "/vijay85-tech/my-todo-list/static/js/2.9dadb518.chunk.js.LICENSE.txt"
+    "main.css": "/my-todo-list/static/css/main.03034fdd.chunk.css",
+    "main.js": "/my-todo-list/static/js/main.cac77767.chunk.js",
+    "main.js.map": "/my-todo-list/static/js/main.cac77767.chunk.js.map",
+    "runtime-main.js": "/my-todo-list/static/js/runtime-main.ea6f2011.js",
+    "runtime-main.js.map": "/my-todo-list/static/js/runtime-main.ea6f2011.js.map",
+    "static/js/2.9dadb518.chunk.js": "/my-todo-list/static/js/2.9dadb518.chunk.js",
+    "static/js/2.9dadb518.chunk.js.map": "/my-todo-list/static/js/2.9dadb518.chunk.js.map",
+    "index.html": "/my-todo-list/index.html",
+    "precache-manifest.779f98859279186dcfd37dc09f2469ae.js": "/my-todo-list/precache-manifest.779f98859279186dcfd37dc09f2469ae.js",
+    "service-worker.js": "/my-todo-list/service-worker.js",
+    "static/css/main.03034fdd.chunk.css.map": "/my-todo-list/static/css/main.03034fdd.chunk.css.map",
+    "static/js/2.9dadb518.chunk.js.LICENSE.txt": "/my-todo-list/static/js/2.9dadb518.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4248497.js",
+    "static/js/runtime-main.ea6f2011.js",
     "static/js/2.9dadb518.chunk.js",
     "static/css/main.03034fdd.chunk.css",
-    "static/js/main.2a901289.chunk.js"
+    "static/js/main.cac77767.chunk.js"
   ]
 }
